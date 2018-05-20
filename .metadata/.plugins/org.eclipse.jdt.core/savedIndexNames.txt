@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\POC\LibrarymanagementSystem\.metadata\.plugins\org.eclipse.jdt.core
+3904669849.index
